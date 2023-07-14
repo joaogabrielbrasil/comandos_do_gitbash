@@ -1,1 +1,0 @@
-Esse projeto está na branch projetos_js.
